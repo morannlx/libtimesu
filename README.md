@@ -1,4 +1,4 @@
-# libsu
+# libtimesu
 
 [![](https://jitpack.io/v/morannlx/libtimesu.svg)](https://jitpack.io/#morannlx/libtimesu)
 
